@@ -128,7 +128,7 @@ namespace gptBot
             Console.WriteLine("##################################################################");
             Console.WriteLine("### Hello, I'm ChatGPT in console version written in C# .NET 5 ###");
             Console.WriteLine("### This is just a little test playing with ChatGPT for fun... ###");
-            Console.WriteLine("### You need to put your own private API key to the line 172   ###");
+            Console.WriteLine("### You need to put your own private API key to the line 171   ###");
             Console.WriteLine("##################################################################");
             Console.WriteLine();
             Console.WriteLine("What's your first question?");
